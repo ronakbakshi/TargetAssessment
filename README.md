@@ -14,7 +14,7 @@ Output all the fertile land area in square meters, sorted from smallest area to 
  **Technology overview:**\
  This is a maven project created and developed in IntelliJ IDE. Unit testing is done using JUnit.
  
- **How to run the project?**\
+ **How to run the project?**
  * Clone this project in your local
  * Open pom.xml(inside root folder) using an IDE, preferably IntelliJ
  * Go to main class under root/src/main/java/Driver.java and you can run the application
